@@ -6,7 +6,7 @@
 
 #
 
-Me chamo João Henrique, tenho 18 anos e moro em Belo Horizonte - MG. Atualmente curso Análise e Desenvolvimento de Sistemas na Proz Educação. Sou apaixonado por tecnologia, curioso sobre Softaware.
+Me chamo João Henrique, tenho 18 anos e moro em Belo Horizonte - MG. Atualmente curso Análise e Desenvolvimento de Sistemas na Proz Educação. Sou apaixonado por tecnologia, curioso sobre estudos de Softaware.
 
 <img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/57658ebc-1bb1-4924-9023-7a2f4cf92e80" />
 
@@ -41,6 +41,15 @@ Me chamo João Henrique, tenho 18 anos e moro em Belo Horizonte - MG. Atualmente
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
 <img
