@@ -8,7 +8,7 @@
 
 Me chamo João Henrique, tenho 18 anos e moro em Belo Horizonte - MG. Atualmente curso Análise e Desenvolvimento de Sistemas na Proz Educação. Sou apaixonado por tecnologia, curioso sobre Softaware.
 
-<img width="500" height="261" alt="bf4d3c42b3e5ea77402a192b33b74cc9" src="https://github.com/user-attachments/assets/57658ebc-1bb1-4924-9023-7a2f4cf92e80" />
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/57658ebc-1bb1-4924-9023-7a2f4cf92e80" />
 
 <h3 align="left">Connect with me!</h3>
 
